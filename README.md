@@ -1,4 +1,4 @@
-# E-RezervareTeatru
+# E-BookingTheaterSeats
   E-RezervareTeatru is a Java desktop application designed to simulate in a simple way a ticket office of a theater. Swing and Awt were used for designing the GUI of the application. All data from user is stored in files.
   
   The application shows initially a list of all available spectacles that can be attended.
